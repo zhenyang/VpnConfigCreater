@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+*.class
+target
+
+# Package Files #
+*.jar
+
+*.iml
+*.ipr
+*.iws
+
+vpn.mobileconfig

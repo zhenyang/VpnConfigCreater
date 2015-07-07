@@ -1,0 +1,14 @@
+{
+  "username": "username1",
+  "password": "password1",
+  "servers": [
+    {
+      "name": "US1",
+      "ip": "123.123.123.123"
+    },
+    {
+      "name": "US2",
+      "ip": "12.12.12.12"
+    }
+  ]
+}
